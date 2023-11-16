@@ -12,7 +12,9 @@ https://github.com/JeanPaulVidal
 
 ## Andrea Jacob Salas
 
-## Roberto Barrera Rojo
+## Roberto Barrera Rojo 
+
+https://github.com/RobertoBarreraa
 
 ## Erick Mendoza Escamilla
 
