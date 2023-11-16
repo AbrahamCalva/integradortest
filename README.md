@@ -10,6 +10,6 @@
 
 ## Roberto Barrera Rojo
 
-## Erick Mendoza Escamilla
+## Erick Martinez Escamilla
 
-https://github.com/ErickEsca
+[GitHub de Erick](https://github.com/ErickEsca)
