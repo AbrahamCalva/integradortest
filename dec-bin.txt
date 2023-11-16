@@ -1,0 +1,5 @@
+# integrador 
+[repo] (git@github.com:AbrahamCalva/integradortest.git)
+
+# Ejercicio 4:
+Dado un numero decimal entero positivo o negativo regresar su equivalente en binario.
