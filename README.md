@@ -6,6 +6,8 @@
 
 ## Jean Paul Vidal Ceron
 
+https://github.com/JeanPaulVidal
+
 ## Andrea Jacob Salas
 
 ## Roberto Barrera Rojo
