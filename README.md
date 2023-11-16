@@ -6,7 +6,7 @@
 
 ## Jean Paul Vidal Ceron
 
-https://github.com/JeanPaulVidal
+[Github de Jean Paul](https://github.com/JeanPaulVidal)
 
 ## Andrea Jacob Salas
 
