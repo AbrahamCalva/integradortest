@@ -4,11 +4,18 @@
 
 ## Abraham Calva
 
+[Github de Abraham](https://github.com/AbrahamCalva)
+
 ## Jean Paul Vidal Ceron
 
-## Andrea Jacob Salas
+[Github de Jean Paul](https://github.com/JeanPaulVidal)
 
-## Roberto Barrera Rojo
+## Andrea Jacob Salas
+[Github de Andrea](https://github.com/AndyJacobSalas)
+
+## Roberto Barrera Rojo 
+
+https://github.com/RobertoBarreraa
 
 ## Erick Martinez Escamilla
 
